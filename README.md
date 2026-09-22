@@ -255,4 +255,4 @@ This repository serves as the official landing page for MediaCoder. The software
 **Get the most recent version of MediaCoder today!**
 
 ---
-**Last updated:** 2026-09-22 13:43:43 UTC
+**Last updated:** 2026-09-22 17:47:50 UTC
